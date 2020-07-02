@@ -1,0 +1,16 @@
+body{
+    color:#e7e7e7;
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+h1{
+    font-size: 3em
+}
+
+input{
+    min-width: 300px;
+}
+
+#principalTitle{
+    margin-top: 5%;
+}
